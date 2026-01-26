@@ -18,6 +18,12 @@ a first Sveltekit + TailWindCSS project from scratch
 
 1. Initialise directory as a SvelteKit project:
 
+   we'll use `npx sv` the Svelte command line tool:
+
+  ```bash
+    >>> npx sv create 
+  ```
+
    - we'll create it in the current directory
      - `(hit Enter to use './')`
    - choose **SvelteKit minimal**
