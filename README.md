@@ -2,10 +2,6 @@
 
 a first Sveltekit + TailWindCSS project from scratch
 
-![screenshot of web page showinng hello world message and randomly generated emaila address](screenshot.png)
-
-
-
 ## how to create this project from scratch
 
 1. Create directory for project
