@@ -106,7 +106,7 @@ a first Sveltekit + TailWindCSS project from scratch
 
    ![screenshot of +page.svelte in project file hierarchy](./images/screenshot2.png)
 
-1. Let's replace the content of `` with our own content
+1. Let's replace the content of `/src/routes/+page.svelte` with our own content
 
     - first a `<script>` to delcare a module name variable
     ```html
@@ -192,15 +192,15 @@ a first Sveltekit + TailWindCSS project from scratch
     - create file `/src/routes/about/+page.svelte` to contain the following:
 
     ```html
-    <h1 class="bg-amber-100 p-5 text-2xl">
-        Welcome to {moduleName}
-    </h1>
+    <div class="m-2 p-2 bg-blue-200 rounded-lg">
+        <a href="/">(home)</a>
     
-    <p>
-        hello world
-        <br>
-        <a href="/about">about page</a>
-    </p>
+        <hr class="m-3">
+    
+        <h1 class="text-2xl">
+            I'm the About page
+        </h1>
+    </div>
     ```
 
 1. Now when you visit the about page link from the home page you should see the following:
