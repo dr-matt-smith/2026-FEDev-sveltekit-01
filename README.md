@@ -4,6 +4,8 @@ a first Sveltekit + TailWindCSS project from scratch
 
 ## how to create this project from scratch
 
+NOTE: If your workbench/IDE creates a new project folder for you (such as [Celbridge](https://www.celbridge.org/)), then you can skip the first 2 steps...
+
 1. Create directory for project
 
     ```bash
