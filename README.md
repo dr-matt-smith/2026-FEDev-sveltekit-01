@@ -102,11 +102,11 @@ NOTE: If your workbench/IDE creates a new project folder for you (such as [Celbr
 
 1. You should see something like the following:
 
-    ![screenshot of default content in Web Browser](./images/screenshot1.png)
+    ![screenshot of default content in Web Browser](/images/screenshot1.png)
 
 1. This content comes from `/src/routes/+page.svelte`
 
-   ![screenshot of +page.svelte in project file hierarchy](./images/screenshot2.png)
+   ![screenshot of +page.svelte in project file hierarchy](/images/screenshot2.png)
 
 1. Let's replace the content of `/src/routes/+page.svelte` with our own content
 
@@ -177,13 +177,13 @@ NOTE: If your workbench/IDE creates a new project folder for you (such as [Celbr
    
 1. The page should automatically refresh within a few seconds, and look as follows:
 
-   ![screenshot of custom page content](./images/screenshot3.png)
+   ![screenshot of custom page content](/images/screenshot3.png)
 
 1. You'll have noticed we added a link to `/about`. 
 
     But if we click it, we'll get a 404 Not Found Error page, since we've not created that page yet...
 
-   ![screenshot of 404 not found for about page](./images/screenshot4_about_not_found.png)
+   ![screenshot of 404 not found for about page](/images/screenshot4_about_not_found.png)
 
 1. Let's create this about page.
 
@@ -207,7 +207,7 @@ NOTE: If your workbench/IDE creates a new project folder for you (such as [Celbr
 
 1. Now when you visit the about page link from the home page you should see the following:
 
-   ![screenshot of content for about page](./images/screenshot5_about_page.png)
+   ![screenshot of content for about page](/images/screenshot5_about_page.png)
 
 
 ## Next steps
