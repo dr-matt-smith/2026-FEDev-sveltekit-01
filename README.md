@@ -2,6 +2,13 @@
 
 a first Sveltekit + TailWindCSS project from scratch
 
+Captioned Video Walkthrough of this exercise:
+
+- part 1 of 3: https://go.screenpal.com/watch/cOnQX8n3WPh
+- part 2 of 3: https://go.screenpal.com/watch/cOnQlXn3WWV
+- part 3 of 3: https://go.screenpal.com/watch/cOnQl0n0cnc
+
+
 ## how to create this project from scratch
 
 NOTE: If your workbench/IDE creates a new project folder for you (such as [Celbridge](https://www.celbridge.org/)), then you can skip the first 2 steps...
